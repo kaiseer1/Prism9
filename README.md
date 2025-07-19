@@ -142,7 +142,7 @@ Tuesday-WorkingHours.pcap_ISCX.csv
 Wednesday-workingHours.pcap_ISCX.csv
 
 # Prism9 will automatically detect and train on CICIDS2017 format files
-python prism9.py --train  # Optional: explicit training mode
+python prism9.py
 ```
 
 ---
@@ -399,7 +399,7 @@ Help us revolutionize cybersecurity through innovative deception and AI-driven d
 
 ```bash
 # Fork & Clone
-git clone https://github.com/yourusername/prism9.git
+git clone https://github.com/kaiseer1/prism9.git
 cd prism9
 
 # Development Setup
@@ -486,6 +486,6 @@ For security vulnerabilities, contact us privately:
 
 ---
 
-*© 2025 Prism9 Framework. Licensed under Apache 2.0. Built with ❤️ for cybersecurity professionals worldwide.*
+*© 2025 Prism9 Framework. Licensed under Apache 2.0. Built with ❤️ for cybersecurity.*
 
 </div>
