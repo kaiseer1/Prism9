@@ -226,8 +226,4 @@ Special thanks to:
 **🔮 Prism9 - Where threats vanish before they begin ✨**
 
 *Making the impossible, invisible*
-
-[![GitHub stars](https://img.shields.io/github/stars/yourkaiseer1/prism9?style=social)](https://github.com/kaiseer1/prism9/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourkaiseer1/prism9?style=social)](https://github.com/kaiseer1/prism9/network)
-
 </div>
