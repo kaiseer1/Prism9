@@ -13,7 +13,7 @@
 
 *Revolutionary AI-driven cybersecurity framework that transforms threats into illusions*
 
-[📥 Quick Start](#-quick-start) • [🔗 Download Dataset](#-download-training-dataset-cicids2017) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
+[📥 Quick Start](#-quick-start) • [🔗 Download Dataset](#-https://bit.ly/4nWQMnt) • [📖 Documentation](#-documentation) • [🤝 Contributing](#-contributing)
 
 </div>
 
