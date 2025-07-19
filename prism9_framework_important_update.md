@@ -38,7 +38,7 @@ Licensed under the Apache 2.0 license. For more details, see the `LICENSE` file.
 
 ## Authors
 
-* Basil Abdullah Alzahrani (@kaiser-dev)
+* Basil Abdullah Alzahrani (@kaiseer1)
 
 ## Future Roadmap
 
@@ -48,4 +48,3 @@ Licensed under the Apache 2.0 license. For more details, see the `LICENSE` file.
 
 For installation, configuration, and dataset details, refer to the README.md and the data directory.
 
-**End of Document**
