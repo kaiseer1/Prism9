@@ -135,15 +135,8 @@ ls *.csv
 # Expected files:
 # Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
 # Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv  
-# Friday-WorkingHours-Morning.pcap_ISCX.csv
-# Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
-# Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
-# Monday-WorkingHours.pcap_ISCX.csv
-# Tuesday-WorkingHours.pcap_ISCX.csv
-# Wednesday-workingHours.pcap_ISCX.csv
-
 # Prism9 will automatically detect and train on CICIDS2017 format files
-python prism9.py --train
+python prism9.py
 ```
 
 ---
