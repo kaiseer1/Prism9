@@ -443,9 +443,6 @@ Prism9 is designed for **legal defensive cybersecurity purposes only**:
 *Department of Management Information System, Al-Baha University*  
 Visionary researcher whose groundbreaking work made Prism9 possible
 
-### 🏛️ **Institutional Support**
-**Al-Baha University**  
-Supporting cybersecurity innovation and research excellence
 
 ### 🔬 **Technical Inspirations**
 - CICIDS2017 dataset creators for providing real-world attack data
