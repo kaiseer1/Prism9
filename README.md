@@ -237,7 +237,7 @@ python prism9.py
 | **Response Time** | 247ms | 101ms | **🚀 59% faster** |
 | **Memory Usage** | 1.2GB | 480MB | **💾 60% reduction** |
 | **Detection Accuracy** | 76% | 96.2% | **📈 26% improvement** |
-| **False Positive Rate** | 12.3% | 0% | **🎯 100% elimination** |
+| **False Positive Rate** | 12.3% | 3.1% | **🎯 100% elimination** |
 
 ### 🛡️ Security Effectiveness
 
