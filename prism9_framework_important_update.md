@@ -29,7 +29,7 @@ Each module is loosely coupled yet interoperable, making Prism9 a modular, scala
 ## Performance Summary (Based on CICIDS2017)
 
 * Detection Accuracy: 96.2%
-* False Positive Rate: 0%
+* False Positive Rate: 3.1%
 * Engagement Deception Rate: 85.7%
 
 ## Licensing
